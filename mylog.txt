@@ -1,0 +1,3 @@
+A new car requested:parking sensor: 800. electric windows: 500. basic car; Scania; red: 50000.0
+A new car requested:basic car; Scania; red: 50000.0
+A new car requested:electric windows: 500. basic car; Scania; pink: 50000.0
